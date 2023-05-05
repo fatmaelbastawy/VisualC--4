@@ -1,0 +1,42 @@
+C:\Users\USER\Desktop\visualc#\ass\d4\lab4_v\bin\Debug\netcoreapp3.1\lab4_v.exe
+C:\Users\USER\Desktop\visualc#\ass\d4\lab4_v\bin\Debug\netcoreapp3.1\lab4_v.deps.json
+C:\Users\USER\Desktop\visualc#\ass\d4\lab4_v\bin\Debug\netcoreapp3.1\lab4_v.runtimeconfig.json
+C:\Users\USER\Desktop\visualc#\ass\d4\lab4_v\bin\Debug\netcoreapp3.1\lab4_v.runtimeconfig.dev.json
+C:\Users\USER\Desktop\visualc#\ass\d4\lab4_v\bin\Debug\netcoreapp3.1\lab4_v.dll
+C:\Users\USER\Desktop\visualc#\ass\d4\lab4_v\bin\Debug\netcoreapp3.1\lab4_v.pdb
+C:\Users\USER\Desktop\visualc#\ass\d4\lab4_v\obj\Debug\netcoreapp3.1\lab4_v.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\visualc#\ass\d4\lab4_v\obj\Debug\netcoreapp3.1\lab4_v.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\visualc#\ass\d4\lab4_v\obj\Debug\netcoreapp3.1\lab4_v.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\visualc#\ass\d4\lab4_v\obj\Debug\netcoreapp3.1\lab4_v.AssemblyInfo.cs
+C:\Users\USER\Desktop\visualc#\ass\d4\lab4_v\obj\Debug\netcoreapp3.1\lab4_v.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\visualc#\ass\d4\lab4_v\obj\Debug\netcoreapp3.1\lab4_v.dll
+C:\Users\USER\Desktop\visualc#\ass\d4\lab4_v\obj\Debug\netcoreapp3.1\lab4_v.pdb
+C:\Users\USER\Desktop\visualc#\ass\d4\lab4_v\obj\Debug\netcoreapp3.1\lab4_v.genruntimeconfig.cache
+F:\visualc#\ass\d4\lab4_v\bin\Debug\netcoreapp3.1\lab4_v.exe
+F:\visualc#\ass\d4\lab4_v\bin\Debug\netcoreapp3.1\lab4_v.deps.json
+F:\visualc#\ass\d4\lab4_v\bin\Debug\netcoreapp3.1\lab4_v.runtimeconfig.json
+F:\visualc#\ass\d4\lab4_v\bin\Debug\netcoreapp3.1\lab4_v.runtimeconfig.dev.json
+F:\visualc#\ass\d4\lab4_v\bin\Debug\netcoreapp3.1\lab4_v.dll
+F:\visualc#\ass\d4\lab4_v\bin\Debug\netcoreapp3.1\lab4_v.pdb
+F:\visualc#\ass\d4\lab4_v\obj\Debug\netcoreapp3.1\lab4_v.csproj.AssemblyReference.cache
+F:\visualc#\ass\d4\lab4_v\obj\Debug\netcoreapp3.1\lab4_v.GeneratedMSBuildEditorConfig.editorconfig
+F:\visualc#\ass\d4\lab4_v\obj\Debug\netcoreapp3.1\lab4_v.AssemblyInfoInputs.cache
+F:\visualc#\ass\d4\lab4_v\obj\Debug\netcoreapp3.1\lab4_v.AssemblyInfo.cs
+F:\visualc#\ass\d4\lab4_v\obj\Debug\netcoreapp3.1\lab4_v.csproj.CoreCompileInputs.cache
+F:\visualc#\ass\d4\lab4_v\obj\Debug\netcoreapp3.1\lab4_v.dll
+F:\visualc#\ass\d4\lab4_v\obj\Debug\netcoreapp3.1\lab4_v.pdb
+F:\visualc#\ass\d4\lab4_v\obj\Debug\netcoreapp3.1\lab4_v.genruntimeconfig.cache
+C:\Users\saiko stores\Downloads\ass\ass\d3\lab4_v\bin\Debug\netcoreapp3.1\lab4_v.exe
+C:\Users\saiko stores\Downloads\ass\ass\d3\lab4_v\bin\Debug\netcoreapp3.1\lab4_v.deps.json
+C:\Users\saiko stores\Downloads\ass\ass\d3\lab4_v\bin\Debug\netcoreapp3.1\lab4_v.runtimeconfig.json
+C:\Users\saiko stores\Downloads\ass\ass\d3\lab4_v\bin\Debug\netcoreapp3.1\lab4_v.runtimeconfig.dev.json
+C:\Users\saiko stores\Downloads\ass\ass\d3\lab4_v\bin\Debug\netcoreapp3.1\lab4_v.dll
+C:\Users\saiko stores\Downloads\ass\ass\d3\lab4_v\bin\Debug\netcoreapp3.1\lab4_v.pdb
+C:\Users\saiko stores\Downloads\ass\ass\d3\lab4_v\obj\Debug\netcoreapp3.1\lab4_v.csproj.AssemblyReference.cache
+C:\Users\saiko stores\Downloads\ass\ass\d3\lab4_v\obj\Debug\netcoreapp3.1\lab4_v.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saiko stores\Downloads\ass\ass\d3\lab4_v\obj\Debug\netcoreapp3.1\lab4_v.AssemblyInfoInputs.cache
+C:\Users\saiko stores\Downloads\ass\ass\d3\lab4_v\obj\Debug\netcoreapp3.1\lab4_v.AssemblyInfo.cs
+C:\Users\saiko stores\Downloads\ass\ass\d3\lab4_v\obj\Debug\netcoreapp3.1\lab4_v.csproj.CoreCompileInputs.cache
+C:\Users\saiko stores\Downloads\ass\ass\d3\lab4_v\obj\Debug\netcoreapp3.1\lab4_v.dll
+C:\Users\saiko stores\Downloads\ass\ass\d3\lab4_v\obj\Debug\netcoreapp3.1\lab4_v.pdb
+C:\Users\saiko stores\Downloads\ass\ass\d3\lab4_v\obj\Debug\netcoreapp3.1\lab4_v.genruntimeconfig.cache

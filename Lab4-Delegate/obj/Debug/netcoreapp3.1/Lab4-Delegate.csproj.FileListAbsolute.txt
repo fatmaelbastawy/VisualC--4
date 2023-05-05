@@ -1,0 +1,14 @@
+C:\Users\saiko stores\Downloads\ass\ass\d3\lab4_v\obj\Debug\netcoreapp3.1\Lab4-Delegate.csproj.AssemblyReference.cache
+C:\Users\saiko stores\Downloads\ass\ass\d3\lab4_v\obj\Debug\netcoreapp3.1\Lab4-Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saiko stores\Downloads\ass\ass\d3\lab4_v\obj\Debug\netcoreapp3.1\Lab4-Delegate.AssemblyInfoInputs.cache
+C:\Users\saiko stores\Downloads\ass\ass\d3\lab4_v\obj\Debug\netcoreapp3.1\Lab4-Delegate.AssemblyInfo.cs
+C:\Users\saiko stores\Downloads\ass\ass\d3\lab4_v\obj\Debug\netcoreapp3.1\Lab4-Delegate.csproj.CoreCompileInputs.cache
+C:\Users\saiko stores\Downloads\ass\ass\d3\lab4_v\bin\Debug\netcoreapp3.1\Lab4-Delegate.exe
+C:\Users\saiko stores\Downloads\ass\ass\d3\lab4_v\bin\Debug\netcoreapp3.1\Lab4-Delegate.deps.json
+C:\Users\saiko stores\Downloads\ass\ass\d3\lab4_v\bin\Debug\netcoreapp3.1\Lab4-Delegate.runtimeconfig.json
+C:\Users\saiko stores\Downloads\ass\ass\d3\lab4_v\bin\Debug\netcoreapp3.1\Lab4-Delegate.runtimeconfig.dev.json
+C:\Users\saiko stores\Downloads\ass\ass\d3\lab4_v\bin\Debug\netcoreapp3.1\Lab4-Delegate.dll
+C:\Users\saiko stores\Downloads\ass\ass\d3\lab4_v\bin\Debug\netcoreapp3.1\Lab4-Delegate.pdb
+C:\Users\saiko stores\Downloads\ass\ass\d3\lab4_v\obj\Debug\netcoreapp3.1\Lab4-Delegate.dll
+C:\Users\saiko stores\Downloads\ass\ass\d3\lab4_v\obj\Debug\netcoreapp3.1\Lab4-Delegate.pdb
+C:\Users\saiko stores\Downloads\ass\ass\d3\lab4_v\obj\Debug\netcoreapp3.1\Lab4-Delegate.genruntimeconfig.cache
